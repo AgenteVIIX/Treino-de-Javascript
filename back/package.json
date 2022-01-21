@@ -1,0 +1,28 @@
+{
+  "name": "tarefinha",
+  "version": "1.0.0",
+  "description": "1º Dia - Revisão HTML, CSS e JS básico pra web front - 08/12 - OK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorGSF/RepodeTreinos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorGSF/RepodeTreinos/issues"
+  },
+  "homepage": "https://github.com/VitorGSF/RepodeTreinos#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1",
+    "node": "^17.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
